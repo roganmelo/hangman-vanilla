@@ -1,0 +1,2 @@
+# hangman-vanilla
+Hangman game
