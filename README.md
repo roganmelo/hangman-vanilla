@@ -1,2 +1,2 @@
 # hangman-vanilla
-Hangman game
+Hangman game http://hangman-vanilla.surge.sh/
